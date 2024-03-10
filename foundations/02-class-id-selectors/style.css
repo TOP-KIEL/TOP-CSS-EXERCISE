@@ -1,0 +1,20 @@
+.one,.five {
+    background: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.three {
+    font-size: 26px;
+}
+
+.four {
+    background: lightgreen;
+    size: 24px;
+    font-weight: bold;
+}
+
+#class-two {
+    font-size: 36px;
+    color: blue;
+}
+
